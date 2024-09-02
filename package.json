@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https//SirArthurio.github.io/Arquitectura-por-capas",
+  "homepage": "https//SirArthurio.github.io/Arquitectura-por-capas/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist",
