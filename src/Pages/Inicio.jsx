@@ -78,7 +78,7 @@ export default function Inicio() {
           </div>
 
           <div className="group relative overflow-hidden rounded-lg bg-[#1a1a1a] transition-all duration-300 hover:bg-[#252525]">
-            <Link to="Ejemplos">
+            <Link to="/Ejemplos">
               <div className="absolute inset-0 bg-gradient-to-b from-[#1a1a1a]/80 to-[#1a1a1a] transition-all duration-300 group-hover:from-[#252525]/80 group-hover:to-[#252525]/80" />
               <div className="relative z-10 p-6 transition-all duration-300 group-hover:p-8">
                 <h3 className="text-2xl font-bold">Ejemplos</h3>
