@@ -10,7 +10,7 @@ import Conclusion from "./Pages/Conclusion";
 
 export const ConfiguracionRutas=[
   {
-    path:'/',
+    path:'/Arquitectura-por-capas',
     element:<Inicio/>,
   },
   {

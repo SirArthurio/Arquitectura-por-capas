@@ -67,7 +67,7 @@ export default function Barra() {
         <NavbarBrand>
           <IoLayersOutline />
 
-          <Link to="/">
+          <Link to="/Arquitectura-por-capas">
             <p className="font-bold text-inherit">ARQUITECTURA</p>
           </Link>
         </NavbarBrand>
